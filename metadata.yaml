@@ -1,0 +1,33 @@
+_repo: Les-Jeudis-de-Madame-Charbonneau_43294
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43294-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pontmartin, Armand, comte de
+    aliases:
+    - Pontmartin, Armand de
+    - Pontmartin, A. (Armand), comte de
+    birthdate: 1811
+    deathdate: 1890
+    gutenberg_agent_id: '42117'
+    url: http://www.gutenberg.org/2009/agents/42117
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43294'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Intellectual life -- 19th century -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+- !lcsh 'Satire'
+- !lcsh 'Romans à clef'
+title: Les Jeudis de Madame Charbonneau
+url: http://www.gutenberg.org/ebooks/43294
