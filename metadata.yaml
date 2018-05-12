@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '42117'
     url: http://www.gutenberg.org/2009/agents/42117
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43294#Les-Jeudis-de-Madame-Charbonneau
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-07-24'
 gutenberg_type: Text
